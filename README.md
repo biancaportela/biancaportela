@@ -1,6 +1,6 @@
 # Hello there, I'm Bianca! <img src="https://media.giphy.com/media/2e6ncMyT3byRG/giphy.gif" width="50">
 
-I'm an economist who recently fell in love with data analysis and data science. I've been on a journey to learn all the necessary skills and (hopefully!) land a job in the area. My goal is to join my expertise in economics and my newly acquired knowledge of analysis/data science to solve business problems!
+I'm an economist who recently fell in love with data analysis and data science. I've been on a journey to learn all the necessary skills and (hopefully!) land a job in the area. My goal is to join my expertise in economics and my newly acquired knowledge of data analysis and data science to solve business problems!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-carvalho-460223244///)](https://www.linkedin.com/in/bianca-carvalho-460223244/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=biancaportelaca@gmail.com)](mailto:biancaportelaca@gmail.com)
