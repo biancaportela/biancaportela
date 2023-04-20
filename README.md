@@ -15,9 +15,9 @@ I'm an economist who recently fell in love with data analysis and data science. 
 - 🤔 Any tips on how to improve my codes would help a ton (but please be kind!).
 - 💻 **Ongoing Projects**:
 
-   i. Predicting Music Popularity using Spotify Data (Evaluation Step)
 
-   ii. Predicting Churn (EDA)
+   i. Predicting Churn (EDA step)
+   
 - ⚡ **Fun fact**: I'm very passionate about Sci-fi and Genshin Impact lore
 - ✨ Microeconomics is my passion. *Macroeconomics* is not.
 
