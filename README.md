@@ -1,4 +1,4 @@
-# Hello there, I'm Bianca! <img src="https://media.giphy.com/media/2e6ncMyT3byRG/giphy.gif" width="50">
+# Hello there, I'm Bianca! 
 
 I'm an economist who recently fell in love with data analysis and data science. I've been on a journey to learn all the necessary skills and (hopefully!) land a job in the area. My goal is to join my expertise in economics and my newly acquired knowledge of data analysis and data science to solve business problems!
 
