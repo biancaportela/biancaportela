@@ -13,11 +13,6 @@ I'm an economist who recently fell in love with data analysis and data science. 
 - 🔭 I’m currently working on finishing all the Machine Learning courses I enrolled in this year.
 - 🌱 I’m currently learning **Unsupervised Learning, Recommenders, Reinforcement Learning**.
 - 🤔 Any tips on how to improve my codes would help a ton (but please be kind!).
-- 💻 **Ongoing Projects**:
-
-
-   i. Predicting Churn (EDA step)
-   
 - ⚡ **Fun fact**: I'm very passionate about Sci-fi and Genshin Impact lore
 - ✨ Microeconomics is my passion. *Macroeconomics* is not.
 
