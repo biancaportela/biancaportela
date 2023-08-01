@@ -1,6 +1,6 @@
 # Hello there, I'm Bianca! 
 
-I'm an economist who recently fell in love with data analysis and data science. I've been on a journey to learn all the necessary skills and (hopefully!) land a job in the area. My goal is to join my expertise in economics and my newly acquired knowledge of data analysis and data science to solve business problems!
+I'm an economist who fell in love with data analysis and data science. I've been on a journey to learn all the necessary skills and land a job in the area. My goal is to join my expertise in economics and my knowledge of data analysis and data science to solve business problems!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancaportela///)](https://www.linkedin.com/in/biancaportela/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=biancaportelaca@gmail.com)](mailto:biancaportelaca@gmail.com)
@@ -13,7 +13,7 @@ I'm an economist who recently fell in love with data analysis and data science. 
 - 🔭 I’m currently working on my portfolio projects.
 - 🤔 Any tips on how to improve my codes would help a ton (but please be kind!).
 - ⚡ **Fun fact**: I'm very passionate about Sci-fi and Genshin Impact lore
-- ✨ Microeconomics is my passion. *Macroeconomics* is not.
+- ✨ Microeconomics is my passion. 
 
 
 <br>
