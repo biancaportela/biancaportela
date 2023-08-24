@@ -1,6 +1,6 @@
 # Hello there, I'm Bianca! 
 
-I'm an economist who fell in love with data analysis and data science. I've been on a journey to learn all the necessary skills and land a job in the area. My goal is to join my expertise in economics and my knowledge of data analysis and data science to solve business problems!
+Sou uma economista que se apaixonou pela análise de dados e pela ciência de dados. Venho em uma jornada para aprender todas as habilidades necessárias e conseguir um emprego na área. Meu objetivo é unir minha expertise em economia com meu conhecimento em análise de dados e ciência de dados para resolver problemas de negócios!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancaportela///)](https://www.linkedin.com/in/biancaportela/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=biancaportelaca@gmail.com)](mailto:biancaportelaca@gmail.com)
@@ -10,15 +10,17 @@ I'm an economist who fell in love with data analysis and data science. I've been
 <img align='right' src="https://media.giphy.com/media/6XX4V0O8a0xdS/giphy.gif" width="330">
 
 
-- 🔭 I’m currently working on my portfolio projects.
-- 🤔 Any tips on how to improve my codes would help a ton (but please be kind!).
-- ⚡ **Fun fact**: I'm very passionate about Sci-fi and Genshin Impact lore
-- ✨ Microeconomics is my passion. 
-
+- 🔭 Atualmente estou trabalhando em meus projetos de portfólio.
+- 🤔 Qualquer dica sobre como melhorar meu código seria de grande ajuda.
+- ⚡ Curiosidade: Sou muito apaixonada por ficção científica e literatura.
+- ✨ A microeconomia é minha paixão.
 
 <br>
 
- ## 🚀 **Language and Tools**
+## 🧙 Projetos
+Você pode encontrar todos os meus projetos de maneira [organizada aqui](https://github.com/biancaportela/portfolio-index/tree/main#ci%C3%AAncia-de-dados). Este documento é um index de tudo o que fiz até agora, ele detalha os estudos de casos feitos ao final de cursos, projetos pessoas e desafios dos quais participei!
+
+ ## 🚀 **Linguagens e ferramentas**
  
  <br>
  
