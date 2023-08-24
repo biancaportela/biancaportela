@@ -18,7 +18,7 @@ Sou uma economista que se apaixonou pela análise de dados e pela ciência de da
 <br>
 
 ## 🧙 Projetos
-Você pode encontrar todos os meus projetos de maneira [organizada aqui](https://github.com/biancaportela/portfolio-index/tree/main#ci%C3%AAncia-de-dados). Este documento é um index de tudo o que fiz até agora, ele detalha os estudos de casos feitos ao final de cursos, projetos pessoas e desafios dos quais participei!
+Você pode encontrar todos os meus projetos de maneira [organizada aqui](https://github.com/biancaportela/portfolio-index/blob/main/README.md). Este documento é um index de tudo o que fiz até agora, ele detalha os estudos de casos feitos ao final de cursos, projetos pessoas e desafios dos quais participei!
 
  ## 🚀 **Linguagens e ferramentas**
  
